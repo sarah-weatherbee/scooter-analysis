@@ -1,3 +1,11 @@
+
+![May scooters](https://user-images.githubusercontent.com/47487494/65833752-20392380-e299-11e9-8eff-ee0b4016ffde.png)
+
+![June scooters](https://user-images.githubusercontent.com/47487494/65833768-5aa2c080-e299-11e9-9412-9399831f0aa0.png)
+
+![July scooters](https://user-images.githubusercontent.com/47487494/65833769-5f677480-e299-11e9-9665-89e2822ec1b5.png)
+
+
 ## Project to address a major planning question for scooters
  * What is the ideal density of available scooters to:
     * enable scooters to serve our transportation goals,
@@ -43,11 +51,5 @@ SUMD devices are thought to be of particular use in the [Promise Zone](https://w
 
 Remember that you need to keep the shapefiles together. Even though you will point to the `.shp` file to create polygons, that file references other files in the `MDHA_Promise_Zones` folder to create the geoDataFrame.
 
-## Screenshots
 
-![May scooters](https://user-images.githubusercontent.com/47487494/65833752-20392380-e299-11e9-8eff-ee0b4016ffde.png)
-
-![June scooters](https://user-images.githubusercontent.com/47487494/65833768-5aa2c080-e299-11e9-9412-9399831f0aa0.png)
-
-![July scooters](https://user-images.githubusercontent.com/47487494/65833769-5f677480-e299-11e9-9665-89e2822ec1b5.png)
 
