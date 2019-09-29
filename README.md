@@ -47,3 +47,7 @@ Remember that you need to keep the shapefiles together. Even though you will poi
 
 ![May scooters](https://user-images.githubusercontent.com/47487494/65833752-20392380-e299-11e9-8eff-ee0b4016ffde.png)
 
+![June scooters](https://user-images.githubusercontent.com/47487494/65833768-5aa2c080-e299-11e9-9412-9399831f0aa0.png)
+
+![July scooters](https://user-images.githubusercontent.com/47487494/65833769-5f677480-e299-11e9-9665-89e2822ec1b5.png)
+
